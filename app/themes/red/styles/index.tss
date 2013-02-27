@@ -1,0 +1,10 @@
+"#myWidget": {
+	
+	styles: {
+		backgroundColor: "#680000",
+		
+		childLabel: {
+			color: "#FF0000"
+		}
+	}
+}

@@ -1,0 +1,5 @@
+<Alloy>
+	<View id="mainView">
+		<Label id="childLabel">Child label</Label>
+	</View>
+</Alloy>

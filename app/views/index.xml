@@ -1,0 +1,5 @@
+<Alloy>
+	<Window>
+		<Widget src="my.alloy.widget" id="myWidget" />
+	</Window>
+</Alloy>

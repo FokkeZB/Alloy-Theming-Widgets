@@ -1,0 +1,13 @@
+.DS_Store
+build.log
+build
+npm-debug.log
+tmp*.class
+*.pyc
+*.pyo
+Resources/mobileweb
+Resources/android
+Resources/alloy
+Resources/iphone
+Resources/alloy.js
+Resources/app.js

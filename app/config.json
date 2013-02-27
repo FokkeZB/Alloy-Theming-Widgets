@@ -1,0 +1,13 @@
+{
+    "global": {
+    	"theme": "red"
+    },
+    "env:development": {},
+    "env:test": {},
+    "env:production": {},
+    "os:ios": {},
+    "os:android": {},
+    "dependencies": {
+        "my.alloy.widget": "1.0"
+    }
+}
