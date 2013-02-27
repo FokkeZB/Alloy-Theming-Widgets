@@ -26,7 +26,7 @@ if (args.styles) {
 }
 ```
 
-And pass any styling to your widget like this either in the requiring controller's `TSS` or in a `TSS` files placed in a theme-folder set up to override.
+And pass any styling to your widget like this, either in the requiring controller's `TSS` or in a `TSS` file placed in a theme-folder using the controller's name.
 
 ```xml
 "#myWidget": {
@@ -40,9 +40,3 @@ And pass any styling to your widget like this either in the requiring controller
 	}
 }
 ```
-
-## Notes
-
-The Alloy compiler does not not allow to have `"#childLabel"` like keys, so the script assumes the keys like `childLabel` to correspondent to IDs. Styling for the toplevel view of the widget can be passed like the `backgroundColor` in the exampel.
-
-Any further ideas are welcome :)
